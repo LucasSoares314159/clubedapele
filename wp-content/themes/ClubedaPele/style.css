@@ -1,0 +1,365 @@
+/*
+Theme Name: Clube da Pele
+Theme URI: http://www.clubedapele.com.br
+Author: Lucas Soares
+Author URI: https://www.linkfor.com.br
+Description: Tema para clube da assinaturas para a pele
+Version: 1.0
+*/
+
+/*Padrões*/
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.title-section{
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+
+.btn-primary{
+	background-color: #1CBBB4!important;
+	border-color: #1CBBB4!important;
+}
+
+/*Navbar */
+.navbar{
+	padding: 0px 15px 0px 50px!important;
+
+}
+
+#navbarText{
+	font-size: 13px;
+}
+
+
+/* Header */
+header.masthead {
+  text-align: center;
+  color: white;
+  background-image: url("img/header.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  min-height: 768px;
+
+}
+
+.img-header{
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	margin-left: -250px;
+	margin-top: -179px;
+
+}
+
+.img-header-mob{
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	margin-left: -150px;
+	margin-top: -107.5px;
+
+}
+
+/* Como funciona */
+.como-funciona{
+	background-color: white;
+
+}
+
+.text-cf{
+	margin-left: 0px;
+	font-family: 'Roboto', sans-serif;
+}
+
+div .text-cf p{
+	font-size: 12px;
+	color: #333;
+	line-height: 20px;
+}
+
+
+div .text-cf h2{
+	font-size: 30px;
+	font-weight: bolder;
+	color: #43335A;
+
+}
+
+div .text-cf h3{
+	font-size: 36px;
+	font-family: 'Parisienne', cursive;
+	color: #F9C8BC;
+}
+
+div .text-cf h4{
+	font-size: 14px;
+	font-weight: bolder;
+	color: #43335A;
+}
+
+.icone-cf{
+	margin-right: -35px;
+}
+.card-1{
+	background-color: #1CBBB4;
+	box-shadow: 0px 8px 8px rgba(0, 0, 0, 0.25);
+	max-width: 296px!important;
+	min-height: 305px!important;
+	border-radius: 5px;
+	margin-top: 35px;
+}
+
+.text-card{
+
+	font-family: 'Parisienne', cursive;
+	color: white;
+	font-size: 36px;
+	padding-top: 50px;
+}
+
+.text-card-p{
+	padding: 35px;
+	color: white;
+}
+
+div .adv p{
+	font-size: 10px;
+	color: #43335A;
+}
+
+/*Vantagens*/
+.pacp-text{
+	margin-top: 40px;
+}
+
+div .pacp-text h3{
+	margin-top: 15px;
+	color: #1CBBB4;
+}
+
+div .pacp-text p{
+	color: #A7A7A7;
+}
+
+.btn-vantagens{
+	margin-top: 40px;
+	padding: 10px 30px 10px 30px!important;
+	font-size: 18px!important;
+}
+
+/* Planos */
+.planos{
+	background-color: #FFE5E5;
+	margin: 0px;
+}
+.plano-1{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	background-image: url('img/rec.png');
+	max-width: 349px;
+	height: 540px;
+	background-repeat: no-repeat;
+}
+
+.plano-2{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	background-image: url('img/rec-2.png');
+	max-width: 349px;
+	height: 540px;
+	background-repeat: no-repeat;
+}
+
+.plano-3{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	background-image: url('img/rec.png');
+	max-width: 349px;
+	height: 540px;
+	background-repeat: no-repeat;
+}
+
+.content-planos{
+
+	margin-top: 20%;
+}
+
+div .content-planos h3{
+	margin-top: 20px;
+	color: #1CBBB4;
+	font-size: 36px;
+	font-family: Roboto, sans-serif;
+}
+
+div .content-planos h2{
+	color: #43335A;
+	font-size: 36px;
+}
+
+div .content-planos p{
+
+	color: #5D5D5D;
+}
+
+div .planos-avisos h4{
+	font-weight: bolder;
+	color: #43335A;
+	font-size: 18px;
+	line-height: 40px;
+}
+
+div .planos-avisos p{
+	color: #B0B0B0;
+	font-size: 14px;
+}
+
+div .planos-avisos a{
+	color: #43335A;
+}
+/* Depoimentos */
+.dep-img{
+	margin-top: 50px;
+	margin-bottom: 30px;
+	max-width: 50%;
+	max-height: 50%;
+
+}
+
+.dep-img-mob{
+	width: 100%!important;
+	height: auto!important;
+	margin-top: 50px;
+	margin-bottom: 30px;
+}
+
+.marcas{
+	margin-top: 100px;
+}
+div .marcas h3{
+
+	font-size: 22px;
+	font-weight: bolder;
+	color: #43355A;
+}
+.img-dep{
+	padding: 30px 10px 30px 10px;
+}
+.dep{
+	width: 500px;
+	height: 300px;
+	border-radius: 10px;
+	border: solid 0.5px;
+	border-color: #F9C8BC;
+}
+
+.dep-mob{
+	margin-top: 0px;
+	padding: 0px 20px 20px 20px;
+	width: 100%!important;
+	border-radius: 10px;
+	border: solid 0.5px;
+	border-color: #F9C8BC;
+}
+
+div .dep-text p{
+	padding: 30px 10px 10px 0px;
+	font-size: 14px;
+	text-align: left;
+	color: #555;
+}
+
+div .dep-text-mob p{
+	padding: 30px 10px 10px 0px;
+	font-size: 12px;
+	text-align: left;
+	color: #555;
+}
+
+div .dep-text h6{
+
+	font-size: 14px;
+	text-align: left;
+	font-weight: bolder;
+}
+
+/* Perguntas Frequentes */
+.faq-section{
+	background-color: #FFE5E5;
+}
+.faq{
+	margin: auto;
+	margin-top: 50px;
+	max-width: 600px!important;
+}
+
+.card-header{
+	background-color: #FFF!important;
+}
+
+.text-faq{
+	margin-top: 20px;
+	font-weight: lighter;
+	color: #939393;
+}
+
+.text-btn-faq{
+	color: #FF8F8F!important;
+	font-size: 16px!important;
+}
+
+
+/* Contato */
+.contact{
+	margin-top: 50px;
+}
+
+.contact-1{
+	padding: 20px;
+	border: solid 1px;
+	border-color: #FF8F8F;
+	color: #B0B0B0;
+	font-size: 18px;
+}
+
+.contact-2{
+	padding: 20px;
+	background-color: #FF8F8F;
+	color: white;
+	font-size: 18px;
+}
+
+.contact-3{
+	padding: 20px;
+	border: solid 1px;
+	border-color: #FF8F8F;
+	color:#B0B0B0;
+	font-size: 18px;
+}
+
+div .newslatter-text h4{
+	font-weight: bolder;
+	color: #43335A;
+	font-size: 18px;
+	line-height: 30px;
+}
+
+.text-footer{
+	margin-top: 40px;
+}
+
+.text-footer-mob{
+	margin-top: 40px;
+	padding-bottom: 200px;
+}
+
+div .text-footer p{
+	margin-top: 20px;
+	color: #8E8E8E;
+}
