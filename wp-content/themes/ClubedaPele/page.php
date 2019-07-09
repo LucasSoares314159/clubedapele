@@ -50,11 +50,11 @@
 <!-- Conteúdo da Página -->
 <div class="content">
 	<?php if(have_posts()) : while (have_posts()) : the_post(); ?>
-		<div class="header-page container-fluid">
-			<h4 class="text-center" style="font-size: 36px; color: #1CBBB4;"><?php the_title(); ?></h4>
+		<div class="header-page container" style="margin-top: 80px;">
+			<h4 class="text-left" style="font-size: 42px; color: #1CBBB4;"><?php the_title(); ?></h4>
 		</div>
-		<div class="content-page container" style="color: black!important;">
-			<p style="color: black!important;"><?php the_content(); ?></p>
+		<div class="content-page container" style="color: #666!important;">
+			<p style="color: #666!important;"><?php the_content(); ?></p>
 		</div>
 		
 </div>

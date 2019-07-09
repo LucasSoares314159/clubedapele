@@ -94,7 +94,7 @@ Version: 1.0
 						</div>
 
 						<div class="d-sm-none d-md-block d-none d-sm-block col-2 icone-cf">
-							<img src="<?php bloginfo("template_url");?>/img/cf-2.png?>" width="60" height="60">
+							<img src="<?php bloginfo("template_url");?>/img/cf-5.png?>" width="60" height="60">
 						</div>
 
 						<div class="col-xs-10 col-sm-10 col-md-10 col-lg-10 col-xl-10">
@@ -274,7 +274,7 @@ Version: 1.0
 
 		<!-- Vagas Abertas -->
 		<h4>FRETE GRÁTIS PARA TODO O BRASIL!</h4>
-		<p>Ao se inscrever, você concorda com os <a href="#">Termos de Uso</a></p>
+		<p>Ao se inscrever, você concorda com os <a href="https://clubedapele.com.br/termos-de-uso/">Termos de Uso</a></p>
 		
 	</div>
 </div>
@@ -519,7 +519,7 @@ Version: 1.0
 									</div>
 									<div id="collapseThree-two" class="collapse" aria-labelledby="headingThree-two" data-parent="#accordionExample">
 										<div class="card-body">
-											Pra todas as mulheres incríveis que querem se presentear com momentos de autocuidado e que querem organizar melhor os hábitos de cuidados com a pele, e mesmo com a rotina atribulada possam se sentir parte de um movimento de amor próprio e com fôlego para realizar todas as tarefas diárias! O Clube é um espaço para que possamos ajudar umas as outras!
+											Pra quem valoriza mais a quantidade do que a qualidade. Sempre priorizamos enviar produtos de alta qualidade de marcas que tenham estudo científico. Queremos estimular o consumo consciente, para que possam usar um produto por inteiro,evitando o desperdício.
 										</div>
 									</div>
 								</div>
