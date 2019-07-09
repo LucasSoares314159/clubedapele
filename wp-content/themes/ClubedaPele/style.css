@@ -81,6 +81,12 @@ div .text-cf p{
 	line-height: 20px;
 }
 
+div .text-cf h1{
+	font-size: 30px;
+	font-weight: bolder;
+	color: #43335A;
+
+}
 
 div .text-cf h2{
 	font-size: 30px;

@@ -39,9 +39,8 @@ Version: 1.0
 	<!-- Web -->
 	<div class="container title-section como-funciona" id="como-funciona">
 		<div class="row">
-
 			<div class="col-md-12 col-lg-12 col-xl-12 text-center text-cf">
-				<h2>COMO FUNCIONA?</h2>
+				<h1>COMO FUNCIONA?</h1>
 				<h3>Entenda o passo a passo do Clube</h3>
 			</div>
 
@@ -72,7 +71,7 @@ Version: 1.0
 
 						<div class="col-xs-10 col-sm-10 col-md-10 col-lg-10 col-xl-10">
 							<h4>AUTO CUIDADO</h4>
-							<p>Vamos montar juntas um passo-a-passo de rotina de cuidados com a pele e te acompanhar mensalmente. Queremos ter um contato próximo para sempre ouvir o que você está achando e fazer surpresas diferentes!</p>
+							<p>Vamos montar juntas um passo-a-passo de rotina de cuidados com a pele e te acompanhar mensalmente. Queremos ter um contato próximo para sempre ouvir o que você está achando e fazer surpresas diferentes.<strong> Skincare não é frescura, e sim um ato de amor com o maior órgão do seu corpo.</strong></p>
 						</div>
 
 						<div class="d-sm-none d-md-block d-none d-sm-block col-2 icone-cf">
@@ -92,7 +91,6 @@ Version: 1.0
 							<h4>EMPODERAMENTO FEMININO</h4>
 							<p>Queremos impactar de alguma forma a autoestima de mulheres incríveis como você!  Se inspirar é muito mais legal do que se comparar! Você é linda do seu jeito!</p>
 						</div>
-
 					</div>
 				</div>
 
@@ -107,31 +105,30 @@ Version: 1.0
 					<div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel">
 						<div class="carousel-inner">
 							<div class="carousel-item active">
-
 								<div class="card-1">
 									<h4 class="text-center text-card">Assine uma <br> Experiência</h4>
-									<p class="text-center text-card-p">Escolha seu plano e receba uma experiência diferenciada todos os meses</p>
+									<p class="text-center text-card-p">Escolha seu plano e receba uma experiência diferenciada todos os meses.</p>
 								</div>	
 							</div>
 
 							<div class="carousel-item">
 								<div class="card-1">
 									<h4 class="text-center text-card">Receba uma <br> Skinbox</h4>
-									<p class="text-center text-card-p"> Receba na sua casa a sua Skinbox personalizada de acordo com o seu perfil de pele.</p>
+									<p class="text-center text-card-p"> Receba na sua casa a sua Skinbox, que será o mais personalizada possível de acordo com o seu perfil de pele.</p>
 								</div>
 							</div>
 
 							<div class="carousel-item">
 								<div class="card-1">
-									<h4 class="text-center text-card">Faça parte <br> da família</h4>
-									<p class="text-center text-card-p">Faça parte do nosso clube de relacionamentos de cuidaddos com a pele e receba nossos benefícios exclusivos!</p>
+									<h4 class="text-center text-card">Faça parte da <br> nossa família</h4>
+									<p class="text-center text-card-p">Faça parte do nosso clube de relacionamentos de cuidados com a pele e receba nossos benefícios exclusivos.</p>
 								</div>
 							</div>
 
 							<div class="carousel-item">
 								<div class="card-1">
 									<h4 class="text-center text-card">Consumo<br> Consciente</h4>
-									<p class="text-center text-card-p">Repense a sua forma de consumir fazendo as melhores escolhas! Estamos aqui para te ajudar</p>
+									<p class="text-center text-card-p">Repense a sua forma de consumir fazendo as melhores escolhas! Estamos aqui para te ajudar.</p>
 								</div>
 							</div>
 
@@ -455,14 +452,13 @@ Version: 1.0
 									<div class="card-header" id="headingTwo">
 										<h2 class="mb-0">
 											<button class="btn btn-link collapsed text-btn-faq" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-												Quais são seus propósitos e valores?
+												Quais são nossos propósitos e valores?
 											</button>
 										</h2>
 									</div>
 									<div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
 										<div class="card-body">
 											Nossa missão é empoderar e impactar a autoestima de mulheres incríveis através da criação de um conteúdo de valor, entregando uma experiência de autocuidado. 
-											Temos a proposta de incentivar as nossas assinantes a reservarem um momento para se cuidarem e mesmo com a rotina atribulada se sentirem femininas e com fôlego para realizar todas as tarefas diárias!
 											<strong>Valores: Transparência, justiça e confiança.</strong>
 										</div>
 									</div>
@@ -485,6 +481,39 @@ Version: 1.0
 										</div>
 									</div>
 								</div>
+
+								<!-- Pergunta 3.1 -->
+								<div class="card">
+									<div class="card-header" id="headingThree-one">
+										<h2 class="mb-0">
+											<button class="btn btn-link collapsed text-btn-faq" type="button" data-toggle="collapse" data-target="#collapseThree-one" aria-expanded="false" aria-controls="collapseThree-one">
+												Para quem é o Clube?
+											</button>
+										</h2>
+									</div>
+									<div id="collapseThree-one" class="collapse" aria-labelledby="headingThree-one" data-parent="#accordionExample">
+										<div class="card-body">
+											Pra todas as mulheres incríveis que querem se presentear com momentos de autocuidado e que querem organizar melhor os hábitos de cuidados com a pele, e mesmo com a rotina atribulada possam se sentir parte de um movimento de amor próprio e com fôlego para realizar todas as tarefas diárias! O Clube é um espaço para que possamos ajudar umas as outras!
+										</div>
+									</div>
+								</div>
+
+								<!-- Pergunta 3.2 -->
+								<div class="card">
+									<div class="card-header" id="headingThree-two">
+										<h2 class="mb-0">
+											<button class="btn btn-link collapsed text-btn-faq" type="button" data-toggle="collapse" data-target="#collapseThree-two" aria-expanded="false" aria-controls="collapseThree-two">
+												Para quem NÃO é o Clube?
+											</button>
+										</h2>
+									</div>
+									<div id="collapseThree-two" class="collapse" aria-labelledby="headingThree-two" data-parent="#accordionExample">
+										<div class="card-body">
+											Pra todas as mulheres incríveis que querem se presentear com momentos de autocuidado e que querem organizar melhor os hábitos de cuidados com a pele, e mesmo com a rotina atribulada possam se sentir parte de um movimento de amor próprio e com fôlego para realizar todas as tarefas diárias! O Clube é um espaço para que possamos ajudar umas as outras!
+										</div>
+									</div>
+								</div>
+
 
 								<!-- Pergunta 4 -->
 								<div class="card">
