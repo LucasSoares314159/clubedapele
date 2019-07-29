@@ -226,7 +226,7 @@ Version: 1.0
 						<div class="content-planos">
 							<img src="<?php bloginfo("template_url"); ?>/img/p-1.png?>">
 							<h3>Trimestral</h3>
-							<h2>R$ 92,90 /mês</h2>
+							<h2>R$ 97,90 /mês</h2>
 							<p>&nbsp &nbsp</p>
 							<!-- Aberta -->
 							<a href="https://app.vindi.com.br/customer/pages/2306ef07-b43d-496f-ba78-18fc331df57e/subscriptions/new"><button class="btn btn-primary btn-vantagens">ASSINAR!</button></a>
@@ -240,7 +240,7 @@ Version: 1.0
 		<div class="content-planos">
 			<img src="<?php bloginfo("template_url"); ?>/img/p-2.png?>">
 			<h3>Semestral</h3>
-			<h2>R$ 84,90 /mês</h2>
+			<h2>R$ 89,90 /mês</h2>
 			<p>Economia de 1 mês gratuito</p>
 			<!-- Aberta-->
 			<a href="https://app.vindi.com.br/customer/pages/4c3360fe-fd49-4e7e-a263-25f149f71659/subscriptions/new"><button class="btn btn-primary btn-vantagens">ASSINAR!</button></a>
@@ -255,7 +255,7 @@ Version: 1.0
 		<div class="content-planos">
 			<img src="<?php bloginfo("template_url"); ?>/img/p-3.png?>">
 			<h3>Anual</h3>
-			<h2>R$ 74,90 /mês</h2>
+			<h2>R$ 79,90 /mês</h2>
 			<p>Economia de 3 meses gratuitos</p>
 			<!-- Aberta -->
 			<a href="https://app.vindi.com.br/customer/pages/fab0e997-69b6-46d8-a015-70fe940d8dbe/subscriptions/new"><button class="btn btn-primary btn-vantagens">ASSINAR!</button></a>
