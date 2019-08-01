@@ -369,3 +369,22 @@ div .text-footer p{
 	margin-top: 20px;
 	color: #8E8E8E;
 }
+
+/* Thanks Page */
+
+.card-thanks{
+
+	margin-top: 30px;
+	width: 600px!important;
+	max-height: 600px;
+	background: white;
+	border-radius: 15px;
+	box-shadow: 0px 8px 8px rgba(136, 136, 136, 0.25);
+}
+
+div .card-thanks p{
+	font-size: 24px;
+	color: #585858;
+	padding: 30px 50px 70px 50px;
+
+}
