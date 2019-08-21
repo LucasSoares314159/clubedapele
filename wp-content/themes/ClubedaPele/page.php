@@ -21,6 +21,7 @@
 </head>
 
 <!-- Navbar -->
+<body id="main">
 <nav class="navbar navbar-expand-lg navbar-dark " id="mainNav" style="background-color: white!important;">
 	<a class="navbar-brand" href="#"><img src="<?php bloginfo('template_url');?>/img/logo.png?>" width="40" height="70"></a>
 	<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation" style="background-color:#1CBBB4;">
@@ -48,7 +49,7 @@
 </nav>
 
 <!-- Conteúdo da Página -->
-<div class="content">
+<div class="content" id="main">
 	<?php if(have_posts()) : while (have_posts()) : the_post(); ?>
 		<div class="header-page container" style="margin-top: 80px;">
 			<h4 class="text-left" style="font-size: 42px; color: #1CBBB4;"><?php the_title(); ?></h4>
